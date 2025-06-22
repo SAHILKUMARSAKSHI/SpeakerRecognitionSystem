@@ -1,0 +1,44 @@
+# MATLAB files
+*.asv
+*.fig
+*.p
+*.slx.autosave
+*.slxc
+slprj/
+*.mat
+
+# Database files (exclude if contains private data)
+speakerDB.mat
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# Audio files (if any test recordings)
+*.wav
+*.mp3
+*.m4a
+*.flac
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+build/
+dist/
