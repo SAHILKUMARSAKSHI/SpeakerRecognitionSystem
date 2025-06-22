@@ -44,6 +44,7 @@ A MATLAB-based speaker recognition system using MFCC (Mel-Frequency Cepstral Coe
 
 ## File Structure
 SpeakerRecognitionSystem/
+
 ├── SpeakerRecognitionTest.m # Main GUI controller
 
 ├── databaseRecorder.m # User registration module
